@@ -1,0 +1,180 @@
+[
+  {
+    "case_id": 1,
+    "expected": "High",
+    "assessment": {
+      "severity": "High",
+      "rationale": "The customer reports being unable to complete a purchase due to the application of a discount, which blocks access to the checkout process. The report does not establish a successful recovery or a working alternative.",
+      "supporting_quote": "Applying a discount makes checkout unresponsive. I cannot complete my purchase.",
+      "unknowns": [
+        "Whether the issue persists without applying the discount"
+      ]
+    },
+    "schema_valid": true,
+    "validation_errors": [],
+    "quote_is_exact": true,
+    "label_match": true
+  },
+  {
+    "case_id": 2,
+    "expected": "High",
+    "assessment": {
+      "severity": "High",
+      "rationale": "The customer reports being unable to access their account despite a working password, which explicitly blocks purchase/account access without a demonstrated recovery or workaround.",
+      "supporting_quote": "I cannot access my account.",
+      "unknowns": []
+    },
+    "schema_valid": true,
+    "validation_errors": [],
+    "quote_is_exact": true,
+    "label_match": true
+  },
+  {
+    "case_id": 3,
+    "expected": "Medium",
+    "assessment": {
+      "severity": "Low",
+      "rationale": "The customer reports that although search functionality is unavailable, they were able to complete their purchase by browsing categories. This indicates only minor friction without significant functional failure.",
+      "supporting_quote": "Search is unavailable, but browsing categories lets me find the item and complete my purchase.",
+      "unknowns": []
+    },
+    "schema_valid": true,
+    "validation_errors": [],
+    "quote_is_exact": true,
+    "label_match": false
+  },
+  {
+    "case_id": 4,
+    "expected": "Low",
+    "assessment": {
+      "severity": "Low",
+      "rationale": "The customer reports minor visual friction but confirms that functionality remains fully usable and checkout can be completed normally.",
+      "supporting_quote": "The button label is cut off slightly. I can still read it and complete checkout normally.",
+      "unknowns": []
+    },
+    "schema_valid": true,
+    "validation_errors": [],
+    "quote_is_exact": true,
+    "label_match": true
+  },
+  {
+    "case_id": 5,
+    "expected": "Unknown",
+    "assessment": {
+      "severity": "Unknown",
+      "rationale": "The customer report does not provide enough information to determine the specific task or function that failed, nor does it indicate any financial harm or blocked access.",
+      "supporting_quote": "Something went wrong earlier. I couldn't finish what I was doing.",
+      "unknowns": [
+        "The exact task or function that failed",
+        "Whether there was any financial harm or blocked access"
+      ]
+    },
+    "schema_valid": true,
+    "validation_errors": [],
+    "quote_is_exact": true,
+    "label_match": true
+  },
+  {
+    "case_id": 6,
+    "expected": "Medium",
+    "assessment": {
+      "severity": "Medium",
+      "rationale": "The search function is unavailable, but there is no reported financial harm or explicit block on purchase/account access. The customer has not tried browsing categories, so other functions may still be usable.",
+      "supporting_quote": "Search returns a service-unavailable error for every query.",
+      "unknowns": [
+        "Whether browsing categories or other functions are affected"
+      ]
+    },
+    "schema_valid": true,
+    "validation_errors": [],
+    "quote_is_exact": true,
+    "label_match": true
+  },
+  {
+    "case_id": 7,
+    "expected": "Medium",
+    "assessment": {
+      "severity": "Low",
+      "rationale": "The customer reports minor friction with the reset email taking 40 minutes, but they are still signed in and can use their account. This indicates that the account functionality is not significantly impacted.",
+      "supporting_quote": "The reset email takes 40 minutes, but I'm still signed in and can use my account.",
+      "unknowns": []
+    },
+    "schema_valid": true,
+    "validation_errors": [],
+    "quote_is_exact": true,
+    "label_match": false
+  },
+  {
+    "case_id": 8,
+    "expected": "Medium",
+    "assessment": {
+      "severity": "Low",
+      "rationale": "The customer reports minor friction with the checkout button temporarily not functioning, but the issue is resolved by refreshing the page, allowing them to complete their purchase without any financial harm or blocked access.",
+      "supporting_quote": "The checkout button does nothing. Refreshing fixes it, and I can then complete my purchase.",
+      "unknowns": []
+    },
+    "schema_valid": true,
+    "validation_errors": [],
+    "quote_is_exact": true,
+    "label_match": false
+  },
+  {
+    "case_id": 9,
+    "expected": "Medium",
+    "assessment": {
+      "severity": "Medium",
+      "rationale": "The customer reports that their saved-items list disappears after refreshing, which indicates a failure of a specific function. However, the customer can still browse and buy products, indicating that the core functionality is not completely blocked or degraded to a high severity level.",
+      "supporting_quote": "My saved-items list disappears after refreshing.",
+      "unknowns": []
+    },
+    "schema_valid": true,
+    "validation_errors": [],
+    "quote_is_exact": true,
+    "label_match": true
+  },
+  {
+    "case_id": 10,
+    "expected": "Low",
+    "assessment": {
+      "severity": "Low",
+      "rationale": "The customer is requesting a preference or feature without reporting any functional failure. There is no impact on functionality or financial harm.",
+      "supporting_quote": "Please add dark mode. Everything works; I prefer a darker appearance.",
+      "unknowns": []
+    },
+    "schema_valid": true,
+    "validation_errors": [],
+    "quote_is_exact": true,
+    "label_match": true
+  },
+  {
+    "case_id": 11,
+    "expected": "Unknown",
+    "assessment": {
+      "severity": "Unknown",
+      "rationale": "The customer report does not provide enough information to determine the specific task or function that is affected or the extent of the impact. The phrase 'I can't get in' alone does not establish blocked account access or any other specific functional failure.",
+      "supporting_quote": "I can't get in. Please help.",
+      "unknowns": [
+        "The specific task or function that is affected",
+        "The extent of the impact"
+      ]
+    },
+    "schema_valid": true,
+    "validation_errors": [],
+    "quote_is_exact": true,
+    "label_match": true
+  },
+  {
+    "case_id": 12,
+    "expected": "High",
+    "assessment": {
+      "severity": "High",
+      "rationale": "The customer reports specific financial harm with two settled charges for a single order, which meets the criteria for High severity.",
+      "supporting_quote": "There are two settled charges for my single order.",
+      "unknowns": []
+    },
+    "schema_valid": true,
+    "validation_errors": [],
+    "quote_is_exact": true,
+    "label_match": true
+  }
+]

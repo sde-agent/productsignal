@@ -1,0 +1,37 @@
+{
+  "settings": {
+    "min_cluster_size": 5,
+    "min_samples": 5,
+    "metric": "euclidean",
+    "cluster_selection_method": "leaf"
+  },
+  "embedding_run": "data/milestone1/processed/embedding_20261006T152614297042Z",
+  "embedding_manifest": {
+    "status": "complete",
+    "model": "nomic-embed-text:latest",
+    "model_digest": "0a109f422b47e3a30ba2b10eca18548e944e8a23073ee3f3e947efcf3c45e59f",
+    "raw_sha256": "03843048ea40d24e2d753772ca8c394d7af001e8c45769a76f8748373cbcc35d",
+    "case_count": 1000,
+    "prefix": "search_document: ",
+    "preprocessing_version": "1",
+    "preprocessing": [
+      "mask emails",
+      "normalize whitespace"
+    ],
+    "batch_size": 32,
+    "created_at_utc": "20261006T152614297042Z",
+    "dimensions": 768,
+    "l2_normalized": true,
+    "embeddings_sha256": "a3623e24bf1a0d23ed2189e384ed9d8f01fb7741ea0cae9e385259e77e852be6"
+  },
+  "versions": {
+    "hdbscan": "0.8.44",
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "scikit-learn": "1.9.1"
+  },
+  "trace_notes": [
+    "membership_strength is not probability of a real defect",
+    "outlier_score is a density-based score, not issue severity"
+  ]
+}

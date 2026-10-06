@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "productsignal-study"
+version = "0.1.0"
+description = "Local AI PM feasibility study: support-case discovery and evidence evaluation"
+requires-python = ">=3.11"
+dependencies = ["numpy>=2.0,<3", "pandas>=2.2,<4", "requests>=2.32,<3", "hdbscan>=0.8.40,<0.9", "scikit-learn>=1.5,<2"]
+
+[project.scripts]
+productsignal = "productsignal.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["productsignal*"]

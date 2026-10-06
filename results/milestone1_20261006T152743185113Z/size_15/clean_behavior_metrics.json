@@ -1,0 +1,128 @@
+{
+  "ambiguous": {
+    "clean_cases": 75,
+    "clean_case_coverage": 0.5,
+    "clean_fragments": 4,
+    "cases_in_mixed_clusters": 0,
+    "noise_cases": 75
+  },
+  "checkout_address_blocked": {
+    "clean_cases": 22,
+    "clean_case_coverage": 0.3384615384615385,
+    "clean_fragments": 1,
+    "cases_in_mixed_clusters": 0,
+    "noise_cases": 43
+  },
+  "checkout_promo_freeze": {
+    "clean_cases": 0,
+    "clean_case_coverage": 0.0,
+    "clean_fragments": 0,
+    "cases_in_mixed_clusters": 7,
+    "noise_cases": 18
+  },
+  "delivery_late": {
+    "clean_cases": 150,
+    "clean_case_coverage": 1.0,
+    "clean_fragments": 4,
+    "cases_in_mixed_clusters": 0,
+    "noise_cases": 0
+  },
+  "duplicate_charge": {
+    "clean_cases": 15,
+    "clean_case_coverage": 0.6521739130434783,
+    "clean_fragments": 1,
+    "cases_in_mixed_clusters": 0,
+    "noise_cases": 8
+  },
+  "expired_coupon_explanation": {
+    "clean_cases": 24,
+    "clean_case_coverage": 0.8,
+    "clean_fragments": 1,
+    "cases_in_mixed_clusters": 0,
+    "noise_cases": 6
+  },
+  "feature_dark_mode": {
+    "clean_cases": 30,
+    "clean_case_coverage": 1.0,
+    "clean_fragments": 2,
+    "cases_in_mixed_clusters": 0,
+    "noise_cases": 0
+  },
+  "howto_order_history": {
+    "clean_cases": 20,
+    "clean_case_coverage": 0.6666666666666666,
+    "clean_fragments": 1,
+    "cases_in_mixed_clusters": 0,
+    "noise_cases": 10
+  },
+  "howto_unsubscribe": {
+    "clean_cases": 0,
+    "clean_case_coverage": 0.0,
+    "clean_fragments": 0,
+    "cases_in_mixed_clusters": 10,
+    "noise_cases": 20
+  },
+  "image_upload_failure": {
+    "clean_cases": 23,
+    "clean_case_coverage": 1.0,
+    "clean_fragments": 1,
+    "cases_in_mixed_clusters": 0,
+    "noise_cases": 0
+  },
+  "login_repeated_password": {
+    "clean_cases": 35,
+    "clean_case_coverage": 0.7777777777777778,
+    "clean_fragments": 1,
+    "cases_in_mixed_clusters": 0,
+    "noise_cases": 10
+  },
+  "notification_setting_not_saved": {
+    "clean_cases": 0,
+    "clean_case_coverage": 0.0,
+    "clean_fragments": 0,
+    "cases_in_mixed_clusters": 23,
+    "noise_cases": 0
+  },
+  "password_reset_delay": {
+    "clean_cases": 120,
+    "clean_case_coverage": 1.0,
+    "clean_fragments": 6,
+    "cases_in_mixed_clusters": 0,
+    "noise_cases": 0
+  },
+  "promo_cart_empty": {
+    "clean_cases": 0,
+    "clean_case_coverage": 0.0,
+    "clean_fragments": 0,
+    "cases_in_mixed_clusters": 85,
+    "noise_cases": 0
+  },
+  "receipt_missing": {
+    "clean_cases": 23,
+    "clean_case_coverage": 1.0,
+    "clean_fragments": 1,
+    "cases_in_mixed_clusters": 0,
+    "noise_cases": 0
+  },
+  "search_irrelevant": {
+    "clean_cases": 71,
+    "clean_case_coverage": 0.6454545454545455,
+    "clean_fragments": 3,
+    "cases_in_mixed_clusters": 25,
+    "noise_cases": 14
+  },
+  "search_unavailable": {
+    "clean_cases": 0,
+    "clean_case_coverage": 0.0,
+    "clean_fragments": 0,
+    "cases_in_mixed_clusters": 2,
+    "noise_cases": 13
+  },
+  "wishlist_not_saved": {
+    "clean_cases": 0,
+    "clean_case_coverage": 0.0,
+    "clean_fragments": 0,
+    "cases_in_mixed_clusters": 0,
+    "noise_cases": 23
+  }
+}

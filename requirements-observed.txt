@@ -1,0 +1,7 @@
+# Exact versions from the user's Mac experiment environment.
+# This records the observed environment, not a complete dependency lock.
+numpy==2.5.3
+pandas==3.0.6
+requests==2.34.2
+hdbscan==0.8.44
+scikit-learn==1.9.1

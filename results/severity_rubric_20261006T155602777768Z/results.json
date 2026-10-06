@@ -1,0 +1,94 @@
+[
+  {
+    "case_id": 1,
+    "expected": "High",
+    "assessment": {
+      "severity": "High",
+      "rationale": "The customer reports being unable to complete a purchase due to the checkout becoming unresponsive when applying a discount. This blocks the purchase process.",
+      "supporting_quote": "Applying a discount makes checkout unresponsive. I cannot complete my purchase.",
+      "unknowns": [
+        "Whether the checkout process works without applying a discount"
+      ]
+    },
+    "schema_valid": true,
+    "validation_errors": [],
+    "quote_is_exact": true,
+    "label_match": true
+  },
+  {
+    "case_id": 2,
+    "expected": "High",
+    "assessment": {
+      "severity": "High",
+      "rationale": "The customer is unable to access their account despite successful login attempts, which blocks account access.",
+      "supporting_quote": "I cannot access my account.",
+      "unknowns": []
+    },
+    "schema_valid": true,
+    "validation_errors": [],
+    "quote_is_exact": true,
+    "label_match": true
+  },
+  {
+    "case_id": 3,
+    "expected": "Medium",
+    "assessment": {
+      "severity": "Low",
+      "rationale": "Although search functionality is unavailable, customers can still browse categories to find and purchase items, indicating that the task remains usable with minor friction.",
+      "supporting_quote": "Search is unavailable, but browsing categories lets me find the item and complete my purchase.",
+      "unknowns": []
+    },
+    "schema_valid": true,
+    "validation_errors": [],
+    "quote_is_exact": true,
+    "label_match": false
+  },
+  {
+    "case_id": 4,
+    "expected": "Low",
+    "assessment": {
+      "severity": "Low",
+      "rationale": "The customer report indicates that although the button label is slightly cut off, it does not prevent the user from completing the checkout process. The task remains usable with minor visual friction.",
+      "supporting_quote": "The button label is cut off slightly. I can still read it and complete checkout normally.",
+      "unknowns": []
+    },
+    "schema_valid": true,
+    "validation_errors": [],
+    "quote_is_exact": true,
+    "label_match": true
+  },
+  {
+    "case_id": 5,
+    "expected": "Unknown",
+    "assessment": {
+      "severity": "Medium",
+      "rationale": "The customer reports an issue that prevented them from completing a task, indicating a degraded function or unavailability, but there is no explicit mention of blocked purchase or account access.",
+      "supporting_quote": "Something went wrong earlier. I couldn't finish what I was doing.",
+      "unknowns": [
+        "The specific function or feature that failed",
+        "Whether a workaround is available"
+      ]
+    },
+    "schema_valid": true,
+    "validation_errors": [],
+    "quote_is_exact": true,
+    "label_match": false
+  },
+  {
+    "case_id": 6,
+    "expected": "Medium",
+    "assessment": {
+      "severity": "Medium",
+      "rationale": "The search function is completely unavailable, returning a service-unavailable error for every query. However, there is no evidence that purchase or account access is blocked, and the customer has not tried browsing categories.",
+      "supporting_quote": "Search returns a service-unavailable error for every query.",
+      "unknowns": [
+        "Whether browsing categories is affected",
+        "Whether purchase or account access is blocked"
+      ]
+    },
+    "schema_valid": true,
+    "validation_errors": [],
+    "quote_is_exact": true,
+    "label_match": true
+  }
+]

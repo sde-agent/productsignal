@@ -1,0 +1,65 @@
+{
+  "seed": 42,
+  "generator_version": "1.1",
+  "cases": 1000,
+  "behavior_counts": {
+    "password_reset_delay": 120,
+    "login_repeated_password": 45,
+    "promo_cart_empty": 85,
+    "ambiguous": 150,
+    "search_irrelevant": 110,
+    "delivery_late": 150,
+    "checkout_address_blocked": 65,
+    "howto_order_history": 30,
+    "expired_coupon_explanation": 30,
+    "howto_unsubscribe": 30,
+    "feature_dark_mode": 30,
+    "duplicate_charge": 23,
+    "search_unavailable": 15,
+    "notification_setting_not_saved": 23,
+    "checkout_promo_freeze": 25,
+    "receipt_missing": 23,
+    "image_upload_failure": 23,
+    "wishlist_not_saved": 23
+  },
+  "evidence_type_counts": {
+    "reported_failure": 730,
+    "ambiguous": 150,
+    "how_to": 60,
+    "intended_behavior": 30,
+    "feature_request": 30
+  },
+  "confusion_pairs": [
+    [
+      "password_reset_delay",
+      "login_repeated_password"
+    ],
+    [
+      "checkout_address_blocked",
+      "checkout_promo_freeze"
+    ],
+    [
+      "promo_cart_empty",
+      "checkout_promo_freeze"
+    ],
+    [
+      "search_irrelevant",
+      "search_unavailable"
+    ],
+    [
+      "checkout_address_blocked",
+      "delivery_late"
+    ],
+    [
+      "howto_unsubscribe",
+      "notification_setting_not_saved"
+    ]
+  ],
+  "raw_sha256": "03843048ea40d24e2d753772ca8c394d7af001e8c45769a76f8748373cbcc35d",
+  "limitations": [
+    "Template-based synthetic data; not evidence of production performance.",
+    "Shared descriptions can create wording-based clusters.",
+    "Dates are random; this dataset does not test emergence.",
+    "Evidence types are evaluation labels, not pipeline inputs."
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "dataset_root": "data/milestone1",
+  "output_root": "experiments",
+  "ollama_host": "http://localhost:11434",
+  "embedding_model": "nomic-embed-text:latest",
+  "batch_size": 32,
+  "clustering": [
+    {
+      "min_cluster_size": 10,
+      "min_samples": 5,
+      "metric": "euclidean",
+      "cluster_selection_method": "eom"
+    },
+    {
+      "min_cluster_size": 5,
+      "min_samples": 2,
+      "metric": "euclidean",
+      "cluster_selection_method": "eom"
+    }
+  ]
+}

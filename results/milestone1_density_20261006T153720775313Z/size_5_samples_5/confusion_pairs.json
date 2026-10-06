@@ -1,0 +1,57 @@
+[
+  {
+    "behavior_a": "password_reset_delay",
+    "behavior_b": "login_repeated_password",
+    "shared_clusters": [],
+    "cross_behavior_pair_merge_rate": 0.0,
+    "a_cases_in_shared_clusters": 0,
+    "b_cases_in_shared_clusters": 0
+  },
+  {
+    "behavior_a": "checkout_address_blocked",
+    "behavior_b": "checkout_promo_freeze",
+    "shared_clusters": [
+      0
+    ],
+    "cross_behavior_pair_merge_rate": 0.014769230769230769,
+    "a_cases_in_shared_clusters": 12,
+    "b_cases_in_shared_clusters": 2
+  },
+  {
+    "behavior_a": "promo_cart_empty",
+    "behavior_b": "checkout_promo_freeze",
+    "shared_clusters": [
+      30,
+      39
+    ],
+    "cross_behavior_pair_merge_rate": 0.04094117647058824,
+    "a_cases_in_shared_clusters": 23,
+    "b_cases_in_shared_clusters": 6
+  },
+  {
+    "behavior_a": "search_irrelevant",
+    "behavior_b": "search_unavailable",
+    "shared_clusters": [
+      61
+    ],
+    "cross_behavior_pair_merge_rate": 0.030303030303030304,
+    "a_cases_in_shared_clusters": 25,
+    "b_cases_in_shared_clusters": 2
+  },
+  {
+    "behavior_a": "checkout_address_blocked",
+    "behavior_b": "delivery_late",
+    "shared_clusters": [],
+    "cross_behavior_pair_merge_rate": 0.0,
+    "a_cases_in_shared_clusters": 0,
+    "b_cases_in_shared_clusters": 0
+  },
+  {
+    "behavior_a": "howto_unsubscribe",
+    "behavior_b": "notification_setting_not_saved",
+    "shared_clusters": [],
+    "cross_behavior_pair_merge_rate": 0.0,
+    "a_cases_in_shared_clusters": 0,
+    "b_cases_in_shared_clusters": 0
+  }
+]

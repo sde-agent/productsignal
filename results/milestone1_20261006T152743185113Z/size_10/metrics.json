@@ -1,0 +1,34 @@
+{
+  "min_cluster_size": 10,
+  "min_samples": 5,
+  "clusters": 42,
+  "overall_coverage": 0.851,
+  "reported_failure_coverage": 0.9164383561643835,
+  "known_topic_coverage": 0.8988235294117647,
+  "all_assigned_purity": 0.9764982373678026,
+  "failure_only_purity": 0.9850523168908819,
+  "clusters_mixing_failure_behaviors": 4,
+  "assigned_by_evidence_type": {
+    "ambiguous": {
+      "assigned": 87,
+      "total": 150
+    },
+    "feature_request": {
+      "assigned": 30,
+      "total": 30
+    },
+    "how_to": {
+      "assigned": 41,
+      "total": 60
+    },
+    "intended_behavior": {
+      "assigned": 24,
+      "total": 30
+    },
+    "reported_failure": {
+      "assigned": 669,
+      "total": 730
+    }
+  },
+  "golden_sha256": "0900948cd602266e28edd56e5cacf6fb83cd890cc2f1b474df133669f8269cc8"
+}

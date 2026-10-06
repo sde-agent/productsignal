@@ -1,0 +1,1000 @@
+{"case_id": "M1-0001", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0002", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0003", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0004", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0005", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "insufficient_context"]}
+{"case_id": "M1-0006", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0007", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0008", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0009", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0010", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0011", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0012", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0013", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0014", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0015", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "insufficient_context"]}
+{"case_id": "M1-0016", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0017", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0018", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["multiline", "typing_variation"]}
+{"case_id": "M1-0019", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0020", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["informal"]}
+{"case_id": "M1-0021", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0022", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0023", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "insufficient_context"]}
+{"case_id": "M1-0024", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0025", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["informal"]}
+{"case_id": "M1-0026", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "insufficient_context"]}
+{"case_id": "M1-0027", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["terse", "typing_variation"]}
+{"case_id": "M1-0028", "behavior": "duplicate_charge", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0029", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["longer"]}
+{"case_id": "M1-0030", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0031", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0032", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0033", "behavior": "search_unavailable", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse", "typing_variation", "small_issue"]}
+{"case_id": "M1-0034", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0035", "behavior": "notification_setting_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0036", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0037", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0038", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0039", "behavior": "checkout_promo_freeze", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational", "small_issue"]}
+{"case_id": "M1-0040", "behavior": "receipt_missing", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0041", "behavior": "notification_setting_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0042", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0043", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0044", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0045", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0046", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0047", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0048", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0049", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0050", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["conversational", "typing_variation"]}
+{"case_id": "M1-0051", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0052", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["informal"]}
+{"case_id": "M1-0053", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0054", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0055", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0056", "behavior": "receipt_missing", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0057", "behavior": "receipt_missing", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0058", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0059", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "insufficient_context"]}
+{"case_id": "M1-0060", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0061", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0062", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0063", "behavior": "image_upload_failure", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0064", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0065", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "insufficient_context"]}
+{"case_id": "M1-0066", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0067", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0068", "behavior": "image_upload_failure", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0069", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0070", "behavior": "notification_setting_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0071", "behavior": "notification_setting_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0072", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "insufficient_context"]}
+{"case_id": "M1-0073", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["terse"]}
+{"case_id": "M1-0074", "behavior": "notification_setting_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0075", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "insufficient_context"]}
+{"case_id": "M1-0076", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["longer"]}
+{"case_id": "M1-0077", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0078", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0079", "behavior": "checkout_promo_freeze", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational", "small_issue"]}
+{"case_id": "M1-0080", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational", "typing_variation"]}
+{"case_id": "M1-0081", "behavior": "checkout_promo_freeze", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer", "small_issue"]}
+{"case_id": "M1-0082", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0083", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "insufficient_context"]}
+{"case_id": "M1-0084", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0085", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0086", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse", "typing_variation"]}
+{"case_id": "M1-0087", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0088", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0089", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["longer"]}
+{"case_id": "M1-0090", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0091", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "insufficient_context"]}
+{"case_id": "M1-0092", "behavior": "search_unavailable", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal", "small_issue"]}
+{"case_id": "M1-0093", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0094", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0095", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["longer"]}
+{"case_id": "M1-0096", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0097", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0098", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0099", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0100", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["longer"]}
+{"case_id": "M1-0101", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "insufficient_context"]}
+{"case_id": "M1-0102", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0103", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0104", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "insufficient_context"]}
+{"case_id": "M1-0105", "behavior": "duplicate_charge", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0106", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0107", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0108", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0109", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0110", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0111", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0112", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0113", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["longer"]}
+{"case_id": "M1-0114", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0115", "behavior": "receipt_missing", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0116", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0117", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0118", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0119", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0120", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0121", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0122", "behavior": "checkout_promo_freeze", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal", "small_issue"]}
+{"case_id": "M1-0123", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational", "typing_variation"]}
+{"case_id": "M1-0124", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0125", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0126", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0127", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0128", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "insufficient_context"]}
+{"case_id": "M1-0129", "behavior": "duplicate_charge", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0130", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0131", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0132", "behavior": "receipt_missing", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0133", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0134", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "insufficient_context"]}
+{"case_id": "M1-0135", "behavior": "image_upload_failure", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0136", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["multiline"]}
+{"case_id": "M1-0137", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0138", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "insufficient_context"]}
+{"case_id": "M1-0139", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0140", "behavior": "search_unavailable", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline", "small_issue"]}
+{"case_id": "M1-0141", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "insufficient_context"]}
+{"case_id": "M1-0142", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse", "typing_variation"]}
+{"case_id": "M1-0143", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0144", "behavior": "duplicate_charge", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse", "typing_variation"]}
+{"case_id": "M1-0145", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "insufficient_context"]}
+{"case_id": "M1-0146", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["terse"]}
+{"case_id": "M1-0147", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0148", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "insufficient_context"]}
+{"case_id": "M1-0149", "behavior": "image_upload_failure", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational", "typing_variation"]}
+{"case_id": "M1-0150", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0151", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["multiline"]}
+{"case_id": "M1-0152", "behavior": "notification_setting_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0153", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0154", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer", "typing_variation"]}
+{"case_id": "M1-0155", "behavior": "checkout_promo_freeze", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline", "typing_variation", "small_issue"]}
+{"case_id": "M1-0156", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0157", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0158", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "insufficient_context"]}
+{"case_id": "M1-0159", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0160", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0161", "behavior": "checkout_promo_freeze", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal", "small_issue"]}
+{"case_id": "M1-0162", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0163", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0164", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0165", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0166", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0167", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0168", "behavior": "search_unavailable", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer", "small_issue"]}
+{"case_id": "M1-0169", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "insufficient_context"]}
+{"case_id": "M1-0170", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline", "typing_variation"]}
+{"case_id": "M1-0171", "behavior": "wishlist_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0172", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational", "typing_variation"]}
+{"case_id": "M1-0173", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "insufficient_context"]}
+{"case_id": "M1-0174", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["informal"]}
+{"case_id": "M1-0175", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "insufficient_context"]}
+{"case_id": "M1-0176", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer", "typing_variation"]}
+{"case_id": "M1-0177", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "insufficient_context"]}
+{"case_id": "M1-0178", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0179", "behavior": "receipt_missing", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0180", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal", "typing_variation"]}
+{"case_id": "M1-0181", "behavior": "receipt_missing", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0182", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0183", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0184", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0185", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0186", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["terse"]}
+{"case_id": "M1-0187", "behavior": "checkout_promo_freeze", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal", "small_issue"]}
+{"case_id": "M1-0188", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0189", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal", "typing_variation"]}
+{"case_id": "M1-0190", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0191", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "typing_variation", "insufficient_context"]}
+{"case_id": "M1-0192", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse", "typing_variation"]}
+{"case_id": "M1-0193", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0194", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0195", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["multiline"]}
+{"case_id": "M1-0196", "behavior": "search_unavailable", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer", "small_issue"]}
+{"case_id": "M1-0197", "behavior": "wishlist_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0198", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0199", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["terse"]}
+{"case_id": "M1-0200", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["informal"]}
+{"case_id": "M1-0201", "behavior": "search_unavailable", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal", "small_issue"]}
+{"case_id": "M1-0202", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0203", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0204", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["conversational"]}
+{"case_id": "M1-0205", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "typing_variation", "insufficient_context"]}
+{"case_id": "M1-0206", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0207", "behavior": "receipt_missing", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0208", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0209", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0210", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0211", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0212", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "insufficient_context"]}
+{"case_id": "M1-0213", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal", "typing_variation"]}
+{"case_id": "M1-0214", "behavior": "image_upload_failure", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0215", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0216", "behavior": "duplicate_charge", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0217", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0218", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0219", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0220", "behavior": "search_unavailable", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational", "small_issue"]}
+{"case_id": "M1-0221", "behavior": "receipt_missing", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0222", "behavior": "notification_setting_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline", "typing_variation"]}
+{"case_id": "M1-0223", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0224", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0225", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["terse"]}
+{"case_id": "M1-0226", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0227", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0228", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0229", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "insufficient_context"]}
+{"case_id": "M1-0230", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0231", "behavior": "checkout_promo_freeze", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational", "small_issue"]}
+{"case_id": "M1-0232", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0233", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0234", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0235", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0236", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0237", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "insufficient_context"]}
+{"case_id": "M1-0238", "behavior": "receipt_missing", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0239", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0240", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0241", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "insufficient_context"]}
+{"case_id": "M1-0242", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["conversational"]}
+{"case_id": "M1-0243", "behavior": "checkout_promo_freeze", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational", "typing_variation", "small_issue"]}
+{"case_id": "M1-0244", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0245", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0246", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0247", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["conversational"]}
+{"case_id": "M1-0248", "behavior": "wishlist_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0249", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0250", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0251", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "insufficient_context"]}
+{"case_id": "M1-0252", "behavior": "checkout_promo_freeze", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse", "small_issue"]}
+{"case_id": "M1-0253", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0254", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["terse"]}
+{"case_id": "M1-0255", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["conversational"]}
+{"case_id": "M1-0256", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0257", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer", "typing_variation"]}
+{"case_id": "M1-0258", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0259", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0260", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0261", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0262", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0263", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0264", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0265", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0266", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "insufficient_context"]}
+{"case_id": "M1-0267", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0268", "behavior": "image_upload_failure", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0269", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0270", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0271", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "typing_variation", "insufficient_context"]}
+{"case_id": "M1-0272", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0273", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer", "typing_variation"]}
+{"case_id": "M1-0274", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse", "typing_variation"]}
+{"case_id": "M1-0275", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["conversational"]}
+{"case_id": "M1-0276", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0277", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "insufficient_context"]}
+{"case_id": "M1-0278", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0279", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0280", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0281", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0282", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["informal"]}
+{"case_id": "M1-0283", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["conversational"]}
+{"case_id": "M1-0284", "behavior": "wishlist_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0285", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0286", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "insufficient_context"]}
+{"case_id": "M1-0287", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0288", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["informal"]}
+{"case_id": "M1-0289", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "insufficient_context"]}
+{"case_id": "M1-0290", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0291", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0292", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0293", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "insufficient_context"]}
+{"case_id": "M1-0294", "behavior": "search_unavailable", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational", "typing_variation", "small_issue"]}
+{"case_id": "M1-0295", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0296", "behavior": "checkout_promo_freeze", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline", "small_issue"]}
+{"case_id": "M1-0297", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "insufficient_context"]}
+{"case_id": "M1-0298", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["longer"]}
+{"case_id": "M1-0299", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0300", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "insufficient_context"]}
+{"case_id": "M1-0301", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer", "typing_variation"]}
+{"case_id": "M1-0302", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational", "typing_variation"]}
+{"case_id": "M1-0303", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0304", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "insufficient_context"]}
+{"case_id": "M1-0305", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0306", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0307", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0308", "behavior": "duplicate_charge", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0309", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "insufficient_context"]}
+{"case_id": "M1-0310", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["multiline"]}
+{"case_id": "M1-0311", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "insufficient_context"]}
+{"case_id": "M1-0312", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0313", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0314", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["multiline"]}
+{"case_id": "M1-0315", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0316", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0317", "behavior": "notification_setting_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0318", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0319", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "insufficient_context"]}
+{"case_id": "M1-0320", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "typing_variation", "insufficient_context"]}
+{"case_id": "M1-0321", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["terse"]}
+{"case_id": "M1-0322", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["longer"]}
+{"case_id": "M1-0323", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0324", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0325", "behavior": "wishlist_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0326", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "insufficient_context"]}
+{"case_id": "M1-0327", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0328", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "insufficient_context"]}
+{"case_id": "M1-0329", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0330", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "typing_variation", "insufficient_context"]}
+{"case_id": "M1-0331", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0332", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0333", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal", "typing_variation"]}
+{"case_id": "M1-0334", "behavior": "duplicate_charge", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0335", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0336", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0337", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["multiline"]}
+{"case_id": "M1-0338", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0339", "behavior": "duplicate_charge", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0340", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline", "typing_variation"]}
+{"case_id": "M1-0341", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0342", "behavior": "image_upload_failure", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse", "typing_variation"]}
+{"case_id": "M1-0343", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0344", "behavior": "checkout_promo_freeze", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational", "small_issue"]}
+{"case_id": "M1-0345", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0346", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0347", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0348", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "insufficient_context"]}
+{"case_id": "M1-0349", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational", "typing_variation"]}
+{"case_id": "M1-0350", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["longer"]}
+{"case_id": "M1-0351", "behavior": "notification_setting_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0352", "behavior": "notification_setting_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0353", "behavior": "checkout_promo_freeze", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline", "small_issue"]}
+{"case_id": "M1-0354", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["conversational"]}
+{"case_id": "M1-0355", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0356", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0357", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0358", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational", "typing_variation"]}
+{"case_id": "M1-0359", "behavior": "receipt_missing", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0360", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0361", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "typing_variation", "insufficient_context"]}
+{"case_id": "M1-0362", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse", "typing_variation"]}
+{"case_id": "M1-0363", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal", "typing_variation"]}
+{"case_id": "M1-0364", "behavior": "wishlist_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0365", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "typing_variation", "insufficient_context"]}
+{"case_id": "M1-0366", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0367", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline", "typing_variation"]}
+{"case_id": "M1-0368", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0369", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0370", "behavior": "receipt_missing", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0371", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["terse"]}
+{"case_id": "M1-0372", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0373", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "typing_variation", "insufficient_context"]}
+{"case_id": "M1-0374", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "insufficient_context"]}
+{"case_id": "M1-0375", "behavior": "receipt_missing", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0376", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0377", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "insufficient_context"]}
+{"case_id": "M1-0378", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0379", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0380", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "insufficient_context"]}
+{"case_id": "M1-0381", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "insufficient_context"]}
+{"case_id": "M1-0382", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["informal"]}
+{"case_id": "M1-0383", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "insufficient_context"]}
+{"case_id": "M1-0384", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["informal"]}
+{"case_id": "M1-0385", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0386", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0387", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0388", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0389", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0390", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0391", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0392", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse", "typing_variation"]}
+{"case_id": "M1-0393", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0394", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0395", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0396", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "insufficient_context"]}
+{"case_id": "M1-0397", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0398", "behavior": "duplicate_charge", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0399", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["multiline"]}
+{"case_id": "M1-0400", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0401", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0402", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0403", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["informal"]}
+{"case_id": "M1-0404", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0405", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline", "typing_variation"]}
+{"case_id": "M1-0406", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0407", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0408", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0409", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal", "typing_variation"]}
+{"case_id": "M1-0410", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0411", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0412", "behavior": "checkout_promo_freeze", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer", "small_issue"]}
+{"case_id": "M1-0413", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "insufficient_context"]}
+{"case_id": "M1-0414", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0415", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0416", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0417", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0418", "behavior": "checkout_promo_freeze", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer", "small_issue"]}
+{"case_id": "M1-0419", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["conversational"]}
+{"case_id": "M1-0420", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0421", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0422", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["conversational", "typing_variation"]}
+{"case_id": "M1-0423", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0424", "behavior": "image_upload_failure", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0425", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["multiline", "typing_variation"]}
+{"case_id": "M1-0426", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0427", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0428", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0429", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse", "typing_variation"]}
+{"case_id": "M1-0430", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0431", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0432", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0433", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0434", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "insufficient_context"]}
+{"case_id": "M1-0435", "behavior": "notification_setting_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0436", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["conversational"]}
+{"case_id": "M1-0437", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["conversational"]}
+{"case_id": "M1-0438", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0439", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0440", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0441", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0442", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0443", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["terse"]}
+{"case_id": "M1-0444", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "insufficient_context"]}
+{"case_id": "M1-0445", "behavior": "receipt_missing", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0446", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0447", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0448", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "insufficient_context"]}
+{"case_id": "M1-0449", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0450", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0451", "behavior": "notification_setting_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0452", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0453", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["multiline"]}
+{"case_id": "M1-0454", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0455", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0456", "behavior": "checkout_promo_freeze", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse", "small_issue"]}
+{"case_id": "M1-0457", "behavior": "duplicate_charge", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0458", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0459", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "insufficient_context"]}
+{"case_id": "M1-0460", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0461", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["informal"]}
+{"case_id": "M1-0462", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "insufficient_context"]}
+{"case_id": "M1-0463", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline", "typing_variation"]}
+{"case_id": "M1-0464", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0465", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0466", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["conversational"]}
+{"case_id": "M1-0467", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["informal"]}
+{"case_id": "M1-0468", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0469", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0470", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0471", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "insufficient_context"]}
+{"case_id": "M1-0472", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["longer"]}
+{"case_id": "M1-0473", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "insufficient_context"]}
+{"case_id": "M1-0474", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["conversational"]}
+{"case_id": "M1-0475", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "insufficient_context"]}
+{"case_id": "M1-0476", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "insufficient_context"]}
+{"case_id": "M1-0477", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "insufficient_context"]}
+{"case_id": "M1-0478", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "insufficient_context"]}
+{"case_id": "M1-0479", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "insufficient_context"]}
+{"case_id": "M1-0480", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["longer"]}
+{"case_id": "M1-0481", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["conversational"]}
+{"case_id": "M1-0482", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["terse"]}
+{"case_id": "M1-0483", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline", "typing_variation"]}
+{"case_id": "M1-0484", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["multiline"]}
+{"case_id": "M1-0485", "behavior": "checkout_promo_freeze", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal", "small_issue"]}
+{"case_id": "M1-0486", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0487", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0488", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "insufficient_context"]}
+{"case_id": "M1-0489", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["longer"]}
+{"case_id": "M1-0490", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0491", "behavior": "image_upload_failure", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0492", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "insufficient_context"]}
+{"case_id": "M1-0493", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "insufficient_context"]}
+{"case_id": "M1-0494", "behavior": "search_unavailable", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer", "small_issue"]}
+{"case_id": "M1-0495", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["informal"]}
+{"case_id": "M1-0496", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "insufficient_context"]}
+{"case_id": "M1-0497", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0498", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "insufficient_context"]}
+{"case_id": "M1-0499", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0500", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "insufficient_context"]}
+{"case_id": "M1-0501", "behavior": "wishlist_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0502", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["terse"]}
+{"case_id": "M1-0503", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0504", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0505", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0506", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0507", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0508", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0509", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational", "typing_variation"]}
+{"case_id": "M1-0510", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0511", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0512", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "insufficient_context"]}
+{"case_id": "M1-0513", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "typing_variation", "insufficient_context"]}
+{"case_id": "M1-0514", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0515", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0516", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["longer"]}
+{"case_id": "M1-0517", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational", "typing_variation"]}
+{"case_id": "M1-0518", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0519", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "insufficient_context"]}
+{"case_id": "M1-0520", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["informal"]}
+{"case_id": "M1-0521", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse", "typing_variation"]}
+{"case_id": "M1-0522", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "insufficient_context"]}
+{"case_id": "M1-0523", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0524", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0525", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0526", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["informal"]}
+{"case_id": "M1-0527", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0528", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0529", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0530", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0531", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0532", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0533", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "insufficient_context"]}
+{"case_id": "M1-0534", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0535", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "insufficient_context"]}
+{"case_id": "M1-0536", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["terse"]}
+{"case_id": "M1-0537", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0538", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "insufficient_context"]}
+{"case_id": "M1-0539", "behavior": "receipt_missing", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0540", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline", "typing_variation"]}
+{"case_id": "M1-0541", "behavior": "image_upload_failure", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0542", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0543", "behavior": "wishlist_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0544", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0545", "behavior": "checkout_promo_freeze", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse", "small_issue"]}
+{"case_id": "M1-0546", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0547", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0548", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0549", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0550", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer", "typing_variation"]}
+{"case_id": "M1-0551", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0552", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0553", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0554", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["longer"]}
+{"case_id": "M1-0555", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0556", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "insufficient_context"]}
+{"case_id": "M1-0557", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0558", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["informal"]}
+{"case_id": "M1-0559", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0560", "behavior": "notification_setting_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0561", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0562", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0563", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "typing_variation", "insufficient_context"]}
+{"case_id": "M1-0564", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "insufficient_context"]}
+{"case_id": "M1-0565", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "insufficient_context"]}
+{"case_id": "M1-0566", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0567", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["conversational"]}
+{"case_id": "M1-0568", "behavior": "receipt_missing", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational", "typing_variation"]}
+{"case_id": "M1-0569", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["longer"]}
+{"case_id": "M1-0570", "behavior": "search_unavailable", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline", "small_issue"]}
+{"case_id": "M1-0571", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["longer"]}
+{"case_id": "M1-0572", "behavior": "image_upload_failure", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0573", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline", "typing_variation"]}
+{"case_id": "M1-0574", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0575", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0576", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0577", "behavior": "image_upload_failure", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0578", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0579", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0580", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0581", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer", "typing_variation"]}
+{"case_id": "M1-0582", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "insufficient_context"]}
+{"case_id": "M1-0583", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0584", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0585", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0586", "behavior": "search_unavailable", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline", "small_issue"]}
+{"case_id": "M1-0587", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0588", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["informal"]}
+{"case_id": "M1-0589", "behavior": "receipt_missing", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline", "typing_variation"]}
+{"case_id": "M1-0590", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0591", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["multiline", "typing_variation"]}
+{"case_id": "M1-0592", "behavior": "wishlist_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0593", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["conversational"]}
+{"case_id": "M1-0594", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0595", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "insufficient_context"]}
+{"case_id": "M1-0596", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0597", "behavior": "wishlist_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0598", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0599", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "insufficient_context"]}
+{"case_id": "M1-0600", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0601", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer", "typing_variation"]}
+{"case_id": "M1-0602", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0603", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["terse"]}
+{"case_id": "M1-0604", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0605", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["conversational"]}
+{"case_id": "M1-0606", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["terse", "typing_variation"]}
+{"case_id": "M1-0607", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "insufficient_context"]}
+{"case_id": "M1-0608", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0609", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["terse"]}
+{"case_id": "M1-0610", "behavior": "duplicate_charge", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0611", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0612", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "insufficient_context"]}
+{"case_id": "M1-0613", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0614", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0615", "behavior": "checkout_promo_freeze", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer", "small_issue"]}
+{"case_id": "M1-0616", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "insufficient_context"]}
+{"case_id": "M1-0617", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["longer"]}
+{"case_id": "M1-0618", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "insufficient_context"]}
+{"case_id": "M1-0619", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["conversational"]}
+{"case_id": "M1-0620", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "insufficient_context"]}
+{"case_id": "M1-0621", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0622", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0623", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0624", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0625", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0626", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0627", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0628", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0629", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0630", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0631", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0632", "behavior": "wishlist_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0633", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0634", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0635", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0636", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0637", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0638", "behavior": "receipt_missing", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0639", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0640", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0641", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0642", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0643", "behavior": "receipt_missing", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0644", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "insufficient_context"]}
+{"case_id": "M1-0645", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal", "typing_variation"]}
+{"case_id": "M1-0646", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0647", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0648", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0649", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "insufficient_context"]}
+{"case_id": "M1-0650", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0651", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0652", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "insufficient_context"]}
+{"case_id": "M1-0653", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "insufficient_context"]}
+{"case_id": "M1-0654", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0655", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0656", "behavior": "notification_setting_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0657", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0658", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["multiline"]}
+{"case_id": "M1-0659", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0660", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0661", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0662", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0663", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "insufficient_context"]}
+{"case_id": "M1-0664", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0665", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0666", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0667", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0668", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0669", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0670", "behavior": "notification_setting_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0671", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0672", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0673", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse", "typing_variation"]}
+{"case_id": "M1-0674", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["informal"]}
+{"case_id": "M1-0675", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0676", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0677", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["multiline"]}
+{"case_id": "M1-0678", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0679", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "insufficient_context"]}
+{"case_id": "M1-0680", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0681", "behavior": "duplicate_charge", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0682", "behavior": "duplicate_charge", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0683", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "insufficient_context"]}
+{"case_id": "M1-0684", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0685", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer", "typing_variation"]}
+{"case_id": "M1-0686", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["informal"]}
+{"case_id": "M1-0687", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0688", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0689", "behavior": "image_upload_failure", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0690", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "insufficient_context"]}
+{"case_id": "M1-0691", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0692", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0693", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0694", "behavior": "notification_setting_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational", "typing_variation"]}
+{"case_id": "M1-0695", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0696", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "insufficient_context"]}
+{"case_id": "M1-0697", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0698", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0699", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "typing_variation", "insufficient_context"]}
+{"case_id": "M1-0700", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "insufficient_context"]}
+{"case_id": "M1-0701", "behavior": "checkout_promo_freeze", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse", "typing_variation", "small_issue"]}
+{"case_id": "M1-0702", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0703", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0704", "behavior": "duplicate_charge", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0705", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "insufficient_context"]}
+{"case_id": "M1-0706", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0707", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0708", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["informal"]}
+{"case_id": "M1-0709", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0710", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "insufficient_context"]}
+{"case_id": "M1-0711", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0712", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0713", "behavior": "image_upload_failure", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0714", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0715", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0716", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0717", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "insufficient_context"]}
+{"case_id": "M1-0718", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "insufficient_context"]}
+{"case_id": "M1-0719", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0720", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["longer"]}
+{"case_id": "M1-0721", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0722", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "insufficient_context"]}
+{"case_id": "M1-0723", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0724", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["conversational"]}
+{"case_id": "M1-0725", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0726", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0727", "behavior": "duplicate_charge", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0728", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0729", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0730", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0731", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0732", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0733", "behavior": "wishlist_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline", "typing_variation"]}
+{"case_id": "M1-0734", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["multiline"]}
+{"case_id": "M1-0735", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "insufficient_context"]}
+{"case_id": "M1-0736", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0737", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0738", "behavior": "duplicate_charge", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0739", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["terse"]}
+{"case_id": "M1-0740", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0741", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0742", "behavior": "wishlist_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0743", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "insufficient_context"]}
+{"case_id": "M1-0744", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "insufficient_context"]}
+{"case_id": "M1-0745", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0746", "behavior": "notification_setting_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0747", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["terse"]}
+{"case_id": "M1-0748", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0749", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0750", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "insufficient_context"]}
+{"case_id": "M1-0751", "behavior": "wishlist_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational", "typing_variation"]}
+{"case_id": "M1-0752", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["multiline"]}
+{"case_id": "M1-0753", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "insufficient_context"]}
+{"case_id": "M1-0754", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline", "typing_variation"]}
+{"case_id": "M1-0755", "behavior": "image_upload_failure", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0756", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "insufficient_context"]}
+{"case_id": "M1-0757", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0758", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0759", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "insufficient_context"]}
+{"case_id": "M1-0760", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0761", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0762", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0763", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0764", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "insufficient_context"]}
+{"case_id": "M1-0765", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0766", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0767", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0768", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["multiline", "typing_variation"]}
+{"case_id": "M1-0769", "behavior": "notification_setting_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0770", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0771", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0772", "behavior": "wishlist_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse", "typing_variation"]}
+{"case_id": "M1-0773", "behavior": "duplicate_charge", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline", "typing_variation"]}
+{"case_id": "M1-0774", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0775", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "insufficient_context"]}
+{"case_id": "M1-0776", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0777", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0778", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "insufficient_context"]}
+{"case_id": "M1-0779", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0780", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0781", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0782", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0783", "behavior": "checkout_promo_freeze", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse", "small_issue"]}
+{"case_id": "M1-0784", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["conversational", "typing_variation"]}
+{"case_id": "M1-0785", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0786", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0787", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0788", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["conversational"]}
+{"case_id": "M1-0789", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0790", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["multiline"]}
+{"case_id": "M1-0791", "behavior": "image_upload_failure", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0792", "behavior": "duplicate_charge", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational", "typing_variation"]}
+{"case_id": "M1-0793", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["multiline"]}
+{"case_id": "M1-0794", "behavior": "search_unavailable", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse", "small_issue"]}
+{"case_id": "M1-0795", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "insufficient_context"]}
+{"case_id": "M1-0796", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0797", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0798", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0799", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0800", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "insufficient_context"]}
+{"case_id": "M1-0801", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0802", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["longer"]}
+{"case_id": "M1-0803", "behavior": "search_unavailable", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse", "small_issue"]}
+{"case_id": "M1-0804", "behavior": "checkout_promo_freeze", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline", "small_issue"]}
+{"case_id": "M1-0805", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["informal"]}
+{"case_id": "M1-0806", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "insufficient_context"]}
+{"case_id": "M1-0807", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0808", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0809", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "insufficient_context"]}
+{"case_id": "M1-0810", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "insufficient_context"]}
+{"case_id": "M1-0811", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0812", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0813", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0814", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0815", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0816", "behavior": "checkout_promo_freeze", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer", "small_issue"]}
+{"case_id": "M1-0817", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0818", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0819", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0820", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "insufficient_context"]}
+{"case_id": "M1-0821", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "typing_variation", "insufficient_context"]}
+{"case_id": "M1-0822", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0823", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0824", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0825", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0826", "behavior": "notification_setting_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0827", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["conversational"]}
+{"case_id": "M1-0828", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0829", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0830", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "insufficient_context"]}
+{"case_id": "M1-0831", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline", "typing_variation"]}
+{"case_id": "M1-0832", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "insufficient_context"]}
+{"case_id": "M1-0833", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0834", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0835", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "insufficient_context"]}
+{"case_id": "M1-0836", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["longer"]}
+{"case_id": "M1-0837", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0838", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer", "typing_variation"]}
+{"case_id": "M1-0839", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "insufficient_context"]}
+{"case_id": "M1-0840", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0841", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["longer"]}
+{"case_id": "M1-0842", "behavior": "receipt_missing", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0843", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational", "typing_variation"]}
+{"case_id": "M1-0844", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0845", "behavior": "wishlist_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0846", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0847", "behavior": "wishlist_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0848", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0849", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0850", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0851", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0852", "behavior": "notification_setting_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0853", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "typing_variation", "insufficient_context"]}
+{"case_id": "M1-0854", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["terse"]}
+{"case_id": "M1-0855", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0856", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0857", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0858", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0859", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0860", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0861", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0862", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["longer"]}
+{"case_id": "M1-0863", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "insufficient_context"]}
+{"case_id": "M1-0864", "behavior": "image_upload_failure", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0865", "behavior": "image_upload_failure", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline", "typing_variation"]}
+{"case_id": "M1-0866", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "insufficient_context"]}
+{"case_id": "M1-0867", "behavior": "notification_setting_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse", "typing_variation"]}
+{"case_id": "M1-0868", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal", "typing_variation"]}
+{"case_id": "M1-0869", "behavior": "duplicate_charge", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0870", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "insufficient_context"]}
+{"case_id": "M1-0871", "behavior": "duplicate_charge", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0872", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0873", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0874", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["longer"]}
+{"case_id": "M1-0875", "behavior": "duplicate_charge", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0876", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["multiline"]}
+{"case_id": "M1-0877", "behavior": "wishlist_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0878", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0879", "behavior": "notification_setting_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0880", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0881", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0882", "behavior": "wishlist_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0883", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse", "typing_variation"]}
+{"case_id": "M1-0884", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0885", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0886", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0887", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0888", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0889", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0890", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "insufficient_context"]}
+{"case_id": "M1-0891", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0892", "behavior": "image_upload_failure", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0893", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0894", "behavior": "duplicate_charge", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0895", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["informal"]}
+{"case_id": "M1-0896", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0897", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0898", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational", "typing_variation"]}
+{"case_id": "M1-0899", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0900", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["informal"]}
+{"case_id": "M1-0901", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "insufficient_context"]}
+{"case_id": "M1-0902", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "insufficient_context"]}
+{"case_id": "M1-0903", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0904", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["multiline"]}
+{"case_id": "M1-0905", "behavior": "receipt_missing", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse", "typing_variation"]}
+{"case_id": "M1-0906", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0907", "behavior": "image_upload_failure", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0908", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["terse"]}
+{"case_id": "M1-0909", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0910", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["conversational", "typing_variation"]}
+{"case_id": "M1-0911", "behavior": "search_unavailable", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational", "small_issue"]}
+{"case_id": "M1-0912", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0913", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0914", "behavior": "notification_setting_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0915", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "insufficient_context"]}
+{"case_id": "M1-0916", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0917", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "insufficient_context"]}
+{"case_id": "M1-0918", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "insufficient_context"]}
+{"case_id": "M1-0919", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline", "typing_variation"]}
+{"case_id": "M1-0920", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "insufficient_context"]}
+{"case_id": "M1-0921", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational", "typing_variation"]}
+{"case_id": "M1-0922", "behavior": "feature_dark_mode", "evidence_type": "feature_request", "meaningful_failure": false, "edge_tags": ["terse"]}
+{"case_id": "M1-0923", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0924", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0925", "behavior": "wishlist_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0926", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["longer"]}
+{"case_id": "M1-0927", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0928", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0929", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0930", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["multiline"]}
+{"case_id": "M1-0931", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0932", "behavior": "checkout_promo_freeze", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal", "small_issue"]}
+{"case_id": "M1-0933", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse", "typing_variation"]}
+{"case_id": "M1-0934", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0935", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0936", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["multiline"]}
+{"case_id": "M1-0937", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "insufficient_context"]}
+{"case_id": "M1-0938", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["multiline"]}
+{"case_id": "M1-0939", "behavior": "wishlist_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0940", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0941", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0942", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0943", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse", "typing_variation"]}
+{"case_id": "M1-0944", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0945", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse", "typing_variation"]}
+{"case_id": "M1-0946", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["terse", "insufficient_context"]}
+{"case_id": "M1-0947", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0948", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "insufficient_context"]}
+{"case_id": "M1-0949", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0950", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0951", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0952", "behavior": "checkout_promo_freeze", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline", "small_issue"]}
+{"case_id": "M1-0953", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0954", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0955", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0956", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0957", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["conversational", "typing_variation", "insufficient_context"]}
+{"case_id": "M1-0958", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["multiline", "insufficient_context"]}
+{"case_id": "M1-0959", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["informal", "insufficient_context"]}
+{"case_id": "M1-0960", "behavior": "image_upload_failure", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0961", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0962", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0963", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0964", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0965", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["terse", "typing_variation"]}
+{"case_id": "M1-0966", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "insufficient_context"]}
+{"case_id": "M1-0967", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0968", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0969", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal", "typing_variation"]}
+{"case_id": "M1-0970", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0971", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0972", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0973", "behavior": "wishlist_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0974", "behavior": "receipt_missing", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0975", "behavior": "login_repeated_password", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0976", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0977", "behavior": "ambiguous", "evidence_type": "ambiguous", "meaningful_failure": false, "edge_tags": ["longer", "insufficient_context"]}
+{"case_id": "M1-0978", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0979", "behavior": "howto_unsubscribe", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["terse", "typing_variation"]}
+{"case_id": "M1-0980", "behavior": "image_upload_failure", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0981", "behavior": "wishlist_not_saved", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0982", "behavior": "checkout_address_blocked", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0983", "behavior": "image_upload_failure", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0984", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0985", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0986", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0987", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0988", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0989", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["conversational"]}
+{"case_id": "M1-0990", "behavior": "receipt_missing", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0991", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal"]}
+{"case_id": "M1-0992", "behavior": "promo_cart_empty", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["terse"]}
+{"case_id": "M1-0993", "behavior": "duplicate_charge", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-0994", "behavior": "search_irrelevant", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0995", "behavior": "expired_coupon_explanation", "evidence_type": "intended_behavior", "meaningful_failure": false, "edge_tags": ["terse"]}
+{"case_id": "M1-0996", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0997", "behavior": "howto_order_history", "evidence_type": "how_to", "meaningful_failure": false, "edge_tags": ["informal"]}
+{"case_id": "M1-0998", "behavior": "password_reset_delay", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["multiline"]}
+{"case_id": "M1-0999", "behavior": "delivery_late", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["longer"]}
+{"case_id": "M1-1000", "behavior": "search_unavailable", "evidence_type": "reported_failure", "meaningful_failure": true, "edge_tags": ["informal", "small_issue"]}
